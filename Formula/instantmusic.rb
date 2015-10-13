@@ -1,4 +1,4 @@
-class Gitignore < Formula
+class Instantmusic < Formula
   homepage "https://github.com/yask123/Instant-Music-Downloader"
   url "https://pypi.python.org/pypi/instantmusic/1.8"
   md5 "2b1fc7fe164f147b071138cb07952e75"
